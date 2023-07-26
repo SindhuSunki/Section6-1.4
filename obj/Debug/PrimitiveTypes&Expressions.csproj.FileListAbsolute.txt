@@ -1,0 +1,8 @@
+D:\Simplilearn classes\Practice Projects\Section6\PrimitiveTypes&Expressions\PrimitiveTypes&Expressions\bin\Debug\PrimitiveTypes&Expressions.exe.config
+D:\Simplilearn classes\Practice Projects\Section6\PrimitiveTypes&Expressions\PrimitiveTypes&Expressions\bin\Debug\PrimitiveTypes&Expressions.exe
+D:\Simplilearn classes\Practice Projects\Section6\PrimitiveTypes&Expressions\PrimitiveTypes&Expressions\bin\Debug\PrimitiveTypes&Expressions.pdb
+D:\Simplilearn classes\Practice Projects\Section6\PrimitiveTypes&Expressions\PrimitiveTypes&Expressions\obj\Debug\PrimitiveTypes&Expressions.csproj.AssemblyReference.cache
+D:\Simplilearn classes\Practice Projects\Section6\PrimitiveTypes&Expressions\PrimitiveTypes&Expressions\obj\Debug\PrimitiveTypes&Expressions.csproj.SuggestedBindingRedirects.cache
+D:\Simplilearn classes\Practice Projects\Section6\PrimitiveTypes&Expressions\PrimitiveTypes&Expressions\obj\Debug\PrimitiveTypes&Expressions.csproj.CoreCompileInputs.cache
+D:\Simplilearn classes\Practice Projects\Section6\PrimitiveTypes&Expressions\PrimitiveTypes&Expressions\obj\Debug\PrimitiveTypes&Expressions.exe
+D:\Simplilearn classes\Practice Projects\Section6\PrimitiveTypes&Expressions\PrimitiveTypes&Expressions\obj\Debug\PrimitiveTypes&Expressions.pdb
